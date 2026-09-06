@@ -1,0 +1,4 @@
+interface:
+  display_name: "EndNote CWYW Fields"
+  short_description: "Audit and rebuild editable EndNote fields in Word"
+  default_prompt: "Use $endnote-cwyw-fields to audit and safely rebuild EndNote CWYW citation fields in this Word document."
