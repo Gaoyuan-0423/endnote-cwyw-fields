@@ -188,7 +188,7 @@ Field structure, failure conditions, and the manual recovery procedure are docum
 
 ### License
 
-Released under the [MIT License](LICENSE). Copyright (c) 2026 Gaoyuan-0423.
+Released under the [MIT License](LICENSE). Copyright (c) 2026 Gaoyuan.
 
 ---
 
@@ -378,4 +378,4 @@ python audit_endnote_fields.py manuscript_endnote.docx
 
 ### 许可证
 
-本项目基于 [MIT 许可证](LICENSE) 发布。版权所有 (c) 2026 Gaoyuan-0423。
+本项目基于 [MIT 许可证](LICENSE) 发布。版权所有 (c) 2026 Gaoyuan。
