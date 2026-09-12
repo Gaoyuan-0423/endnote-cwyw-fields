@@ -41,6 +41,7 @@ A visible `[12]` is **not** proof of a working citation. After a round of revisi
 
 ```
 .
+├── LICENSE                         # MIT license
 ├── SKILL.md                        # Agent skill definition and 7-step workflow
 ├── agents/openai.yaml              # Skill interface metadata
 ├── references/ooxml-safety.md      # OOXML field structure, failure conditions, manual recovery
@@ -185,6 +186,10 @@ If records are missing, import them into the intended library via DOI, PubMed, R
 
 Field structure, failure conditions, and the manual recovery procedure are documented in [`references/ooxml-safety.md`](references/ooxml-safety.md).
 
+### License
+
+Released under the [MIT License](LICENSE). Copyright (c) 2026 Gaoyuan-0423.
+
 ---
 
 ## 中文文档
@@ -226,6 +231,7 @@ Field structure, failure conditions, and the manual recovery procedure are docum
 
 ```
 .
+├── LICENSE                         # MIT 许可证
 ├── SKILL.md                        # Agent skill 定义与 7 步工作流
 ├── agents/openai.yaml              # Skill 接口元数据
 ├── references/ooxml-safety.md      # OOXML 字段结构、失败条件、人工恢复流程
@@ -369,3 +375,7 @@ python audit_endnote_fields.py manuscript_endnote.docx
 ### 延伸阅读
 
 字段结构、失败条件与人工恢复流程详见 [`references/ooxml-safety.md`](references/ooxml-safety.md)。
+
+### 许可证
+
+本项目基于 [MIT 许可证](LICENSE) 发布。版权所有 (c) 2026 Gaoyuan-0423。
